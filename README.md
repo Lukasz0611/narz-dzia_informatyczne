@@ -43,3 +43,7 @@ print("Hello world!")
 ### Zdjecie 
 
 ![dog](animals/dog.jpeg)
+
+### Zdjęcie 2
+
+![rabbit](animals/rabbit.jpeg)
