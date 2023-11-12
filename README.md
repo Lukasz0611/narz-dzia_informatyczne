@@ -23,3 +23,8 @@ Wyboru figury gracz może dokonać za pomocą klawiatury lub kliknięcia myszą.
 Wybór oponenta lub komputera gracz może obserwować na ekranie.
 W przypadku trybu multiplayer porównywane są wyniki 2 graczy. Obaj mają określony czas na wybór figury - po upływie czasu następuje porównanie i przyznanie punktów.
 W obu przypadkach (singleplayer i multiplayer) wygrywa gracz, który pierwszy zgromadził 10 punktów.
+
+### Przykład kodu
+```python
+print("Hello world!")
+```
