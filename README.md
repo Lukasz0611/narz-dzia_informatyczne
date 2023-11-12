@@ -1,1 +1,1 @@
-# narz-dzia_informatyczne
+# narzedzia_informatyczne
