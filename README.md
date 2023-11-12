@@ -47,3 +47,5 @@ print("Hello world!")
 ### Zdjęcie 2
 
 ![rabbit](animals/rabbit.jpeg)
+
+Na zdjęciu znajduje się królik
