@@ -40,3 +40,6 @@ print("Hello world!")
 |4|Łódź|665 259|
 |5|Poznań|541 782|
 
+### Zdjecie 
+
+![dog](animals/dog.jpeg)
