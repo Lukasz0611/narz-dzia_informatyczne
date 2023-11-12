@@ -3,7 +3,7 @@
 ## Opis projektu EasyGamesTeam: gra w “Kamień, papier i nożyce”
 
 Gra w “Kamień, papier i nożyce” - projekt zespołu EasyGamesTeam. Jest to niesamowita gra pozwalająca na rozgrywkę z komputerem bądź innym graczem. 
-Gra będzie stworzona dla użytkowników komputerów PC i laptopów w wieku od 1 do 99 lat. 
+Gra będzie stworzona dla użytkowników komputerów [PC](https://pl.wikipedia.org/wiki/PC) i laptopów w wieku od 1 do 99 lat. 
 
 ### Jak będzie działać?
 Gra w “Kamień, papier i nożyce” jest programem z interfejsem graficznym.
