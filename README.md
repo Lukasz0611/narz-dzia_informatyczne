@@ -28,3 +28,15 @@ W obu przypadkach (singleplayer i multiplayer) wygrywa gracz, który pierwszy zg
 ```python
 print("Hello world!")
 ```
+### Przykładowa tabela
+
+**Największe miasta Polski**
+
+|Lp.|Miasto|Liczba ludności|
+|:-:|:----:|:-------------:|
+|1|Warszawa|1 864 679|
+|2|Kraków|790 279|
+|3|Wrocław|669 564
+|4|Łódź|665 259|
+|5|Poznań|541 782|
+
